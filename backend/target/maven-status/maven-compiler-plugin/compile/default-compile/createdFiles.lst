@@ -1,0 +1,5 @@
+com\example\backend\entities\CD.class
+com\example\backend\entities\Emprunt.class
+com\example\backend\services\OperationsAdminBean.class
+com\example\backend\entities\User.class
+com\example\backend\services\OperationsUtilisateurBean.class
